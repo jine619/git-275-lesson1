@@ -2,15 +2,15 @@
 
 ## Name
 
-** PeiChin Su **
+**PeiChin Su**
 
 Date
 ----
-** 11/05/2016 **
+**11/05/2016**
 
 Github Username
 ---------------
-** jine619 **
+**jine619**
 
 My Favorite 3 Programming Languages
 -----------------------------------
