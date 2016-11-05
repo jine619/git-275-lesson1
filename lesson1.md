@@ -2,11 +2,11 @@
 
 ## Name
 
-**PeiChin Su**
+**PatriceSu**
 
 Date
 ----
-**11/05/2016**
+**2016/11/05**
 
 Github Username
 ---------------
